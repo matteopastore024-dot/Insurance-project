@@ -1,1 +1,1 @@
-In this file i Apply diffrent tecniques to approximate the compund distribution of the total claim loss in an insurance portfolio.
+In this file i Will apply diffrent tecniques for diffrent problem in the insurance space
